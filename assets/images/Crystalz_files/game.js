@@ -3,8 +3,8 @@
 // global variables
 var randomNumber;
 var crystalCounter = 0;
-var wins;
-var losses;
+var wins = 0;
+var losses = 0;
 
 var crystalz = {},
 crystalNumbers = [0, 1, 2, 3];
